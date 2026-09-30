@@ -25,24 +25,25 @@ x = `5,25`
 **Тест 1 — целое число.**
 Ввод: `12`. Ожидание: `0`. Получено: `0`.
 
-![Задача 1.1 — тест 1](https://github.com/user-attachments/assets/dd44461a-0bb8-4159-8435-b8aa0168ac2)
+<img width="235" height="77" alt="image" src="https://github.com/user-attachments/assets/93ff6500-1ba0-4354-98a0-1e02b5016328" />
+
 
 **Тест 2 — дробное число.**
 Ввод: `12,24`. Ожидание: `0,24` (с учётом погрешности `double` — `0,2400000000000002`).
 
-![Задача 1.1 — тест 2](https://github.com/user-attachments/assets/be3e2390-9f51-4799-8b0c-d5e4367163c3)
+<img width="406" height="86" alt="image" src="https://github.com/user-attachments/assets/ed7bc180-1cea-454d-b6a0-edcc6ed9a5a4" />
 
 **Тест 3 — пример из задания.**
 Ввод: `5,25`. Ожидание: `0,25`. Получено: `0,25`.
 
-![Задача 1.1 — тест 3](https://github.com/user-attachments/assets/8062d527-e407-4de8-9517-8b00de036b77)
+<img width="278" height="71" alt="image" src="https://github.com/user-attachments/assets/a865bf7a-619f-4187-95fa-f2c7d31e93e4" />
+
 
 **Тест 4 — проверка ввода.**
 Ввод: `вав` (не число). Программа просит ввести число заново. Ввод: `98,754`. Получено: `0,75400000000000049` (погрешность типа `double`).
 
-![Задача 1.1 — тест 4](https://github.com/user-attachments/assets/1a0bebb7-39a7-4c6d-8420-53cf6bd1fc61)
+<img width="411" height="121" alt="image" src="https://github.com/user-attachments/assets/d3ffe365-ad62-4cb3-a345-ed570d569041" />
 
----
 
 ### Задача 1.3. Букву в число
 
@@ -74,9 +75,8 @@ x = `'3'`
 **Тест 2 — проверка ввода.**
 Ввод: `23` (два символа). Программа просит ввести один символ. Ввод: `7`. Получено: `7`.
 
-![Задача 1.3 — тест 2](screenshots/1.3_test2.png)
+<img width="367" height="146" alt="image" src="https://github.com/user-attachments/assets/42c17343-e80e-4820-899f-5e5d0c953af8" />
 
----
 
 ### Задача 1.5. Двузначное
 

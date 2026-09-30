@@ -592,8 +592,8 @@ x = `12567`
 <img width="308" height="92" alt="image" src="https://github.com/user-attachments/assets/61c84b26-119c-4a0f-8781-c0cf2969e798" />
 
 
-**Тест 3 — однозначное число.**
-Ввод: `7`. Ожидание: `1`. Получено: `1`.
+**Тест 3 — двузначное число.**
+Ввод: `77`. Ожидание: `2`. Получено: `2`.
 
 <img width="287" height="86" alt="image" src="https://github.com/user-attachments/assets/26f15316-e33a-4f34-a820-171889d90043" />
 

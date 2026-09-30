@@ -301,19 +301,20 @@ x = `15`
 **Тест 1 — делится только на 5.**
 Ввод: `5`. Ожидание: `true`. Получено: `true`.
 
-![Задача 2.3 — тест 1](screenshots/2.3_test1.png)
+<img width="215" height="86" alt="image" src="https://github.com/user-attachments/assets/98a7f835-f0c3-4c8a-a880-7e71cd9de057" />
+
 
 **Тест 2 — не делится ни на 3, ни на 5.**
 Ввод: `8`. Ожидание: `false`. Получено: `false`.
 
-![Задача 2.3 — тест 2](screenshots/2.3_test2.png)
+<img width="220" height="82" alt="image" src="https://github.com/user-attachments/assets/37a53ac5-923f-42e5-8642-7b26a6bc053d" />
+
 
 **Тест 3 — делится и на 3, и на 5.**
 Ввод: `15`. Ожидание: `false`. Получено: `false`.
 
-![Задача 2.3 — тест 3](screenshots/2.3_test3.png)
+<img width="220" height="88" alt="image" src="https://github.com/user-attachments/assets/ce17f00b-f8cf-49d6-9d01-a6b04385926d" />
 
----
 
 ### Задача 2.5. Тройной максимум
 
@@ -345,14 +346,25 @@ x = `8`, y = `-1`, z = `4`
 **Тест 1 — максимум y и z.**
 Ввод: `x = 5`, `y = 7`, `z = 7`. Ожидание: `7`. Получено: `7`.
 
-![Задача 2.5 — тест 1](screenshots/2.5_test1.png)
+<img width="181" height="125" alt="image" src="https://github.com/user-attachments/assets/f50d3303-e073-4723-9982-01527a01962e" />
+
 
 **Тест 2 — максимум x.**
 Ввод: `x = 8`, `y = -1`, `z = 4`. Ожидание: `8`. Получено: `8`.
 
-![Задача 2.5 — тест 2](screenshots/2.5_test2.png)
+<img width="178" height="121" alt="image" src="https://github.com/user-attachments/assets/35e99746-df58-4406-b7cf-2a5b487ea83a" />
 
----
+
+**Тест 3 — все числа отрицательные.**
+Ввод: `x = -5`, `y = -2`, `z = -10`. Ожидание: `-2`. Получено: `-2`.
+
+<img width="201" height="127" alt="image" src="https://github.com/user-attachments/assets/cdcc92b8-7ef4-4b3c-b6f7-6ebe9c5913c2" />
+
+
+**Тест 4 — проверка ввода.**
+Ввод: `abc` вместо числа. Программа просит ввести целое число.
+
+<img width="391" height="92" alt="image" src="https://github.com/user-attachments/assets/3d5c5cf5-4a72-4317-8aaa-94113805a1c0" />
 
 ### Задача 2.7. Двойная сумма
 

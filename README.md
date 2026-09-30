@@ -251,24 +251,24 @@ x = `-3`
 **Тест 1 — положительное число (пример из задания).**
 Ввод: `5`. Ожидание: `5`. Получено: `5`.
 
-![Задача 2.1 — тест 1](screenshots/2.1_test1.png)
+<img width="230" height="82" alt="image" src="https://github.com/user-attachments/assets/f0ea40fa-1875-4798-a045-70b83ab75f27" />
+
 
 **Тест 2 — отрицательное число (пример из задания).**
 Ввод: `-3`. Ожидание: `3`. Получено: `3`.
 
-![Задача 2.1 — тест 2](screenshots/2.1_test2.png)
+<img width="252" height="85" alt="image" src="https://github.com/user-attachments/assets/ce6ba530-27c6-442d-9e91-c3438347b610" />
+
 
 **Тест 3 — ноль.**
 Ввод: `0`. Ожидание: `0`. Получено: `0`.
 
-![Задача 2.1 — тест 3](screenshots/2.1_test3.png)
+<img width="218" height="78" alt="image" src="https://github.com/user-attachments/assets/cfd010df-b1e4-44ae-b04c-4ac414b3323e" />
 
 **Тест 4 — проверка ввода.**
 Ввод: `abc`. Программа просит ввести целое число.
 
-![Задача 2.1 — тест 4](screenshots/2.1_test4.png)
-
----
+<img width="390" height="92" alt="image" src="https://github.com/user-attachments/assets/fe8fe33c-1dd0-42d6-9558-774980f1913f" />
 
 ### Задача 2.3. Тридцать пять
 

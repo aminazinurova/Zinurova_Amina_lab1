@@ -779,12 +779,6 @@ x=4
 
 <img width="332" height="67" alt="image" src="https://github.com/user-attachments/assets/f6828113-6be6-4867-9d45-76c1220b0bec" />
 
-
-**Тест 1 — пример из задания.**
-Массив: `[5, -6, -9, 2, 3, 6, 5]`. Ожидание: `-9` (модуль 9 — наибольший). Получено: `-9`.
-
-<img width="293" height="65" alt="image" src="https://github.com/user-attachments/assets/3effd72a-d3a0-48b5-9c46-feaa03b8e996" />
-
 ### Задача 4.5. Добавление массива в массив
 
 **Текст задачи:**
